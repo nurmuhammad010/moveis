@@ -1,0 +1,18 @@
+[
+    {"id":1,"name":"minions", "image":"multfilmlar1.jpg"},
+    
+    {"id":2,"name":"minions", "image":"multi3.jpg"},
+    {"id":3,"name":"Mahluq va qizcha", "image":"multi4.jpeg"},
+    {"id":4,"name":"uyda yolg'iz", "image":"multi5.jpeg"},
+    {"id":5,"name":"Opa singil elzalar", "image":"multi6.jpg"},
+    {"id":6,"name":"TOMI AND JEIR 1", "image":"multi7.jpg"},
+    {"id":7,"name":"TOMI AND JEIR 2", "image":"multi8.jpg"},
+    {"id":8,"name":"TOMI AND JEIR 3", "image":"multi9.jpg"},
+    {"id":9,"name":"MAYMOQVOY", "image":"multi10.jpg"},
+    {"id":10,"name":"minions", "image":"multi15.jpg"},
+    {"id":11,"name":"PANDA 4", "image":"multi12.jpg"},
+    {"id":12,"name":"Xitoy multifilimlari", "image":"multi1.jpg"},
+  { "id":13,"name":"qor odam", "image":"multi2.jpg"},
+   { "id":14,"name":"ds", "image":"multi3.jpg"},
+   { "id":15 , "name":"Katta shaharda yolg'izqiz", "image":"multi4.jpg" }
+]
